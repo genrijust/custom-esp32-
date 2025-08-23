@@ -37,7 +37,7 @@ Below are some screenshots from my project:
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(399).png?raw=true)
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(392).png?raw=true)
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(391).png?raw=true)
-![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(393).png?raw=true)
+![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(404).png?raw=true)
 
 
 ## What I Learned
