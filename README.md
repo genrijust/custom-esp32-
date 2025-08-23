@@ -25,9 +25,9 @@ Designing a custom ESP32 board in Altium Designer gave me hands-on experience wi
 
 ## Helpful Video
 
-I learned most things from this video:  
-[How to Make Custom ESP32 Board in Altium Designer](https://www.youtube.com/watch?v=KWIzhbQaZZk)
-[Altium Designer](https://www.altium.com/documentation/altium-designer)
+I learned most things from this videos:  
+- [How to Make Custom ESP32 Board in Altium Designer](https://www.youtube.com/watch?v=KWIzhbQaZZk)
+- [Altium Designer](https://www.altium.com/documentation/altium-designer)
 
 ## Screenshots
 Below are some screenshots from my project:
