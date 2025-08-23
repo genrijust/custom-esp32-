@@ -9,11 +9,12 @@ Designing a custom ESP32 board in Altium Designer gave me hands-on experience wi
 
 ## Tools Used
 - **Altium Designer** (PCB Design Software)
+- **DigiKey Website** Find parts and their datasheets 
 - **YouTube Tutorial:** Robert Feranec's YouTube tutorial:[How to Make Custom ESP32 Board in Altium Designer | Full Tutorial](https://www.youtube.com/watch?v=KWIzhbQaZZk)
   
 ## What I Did
 
-- **Made my own symbols:** Data sheet  Ensuring accurate pin mapping..I created new symbols.
+- **Made my own symbols:** Read Data sheet Ensuring accurate pin mapping.I created new symbols.
 - **Made footprints:** Used the Footprint Wizard to make shapes for simple components.pad shapes .3D shapes.
 - **Linked schematic and PCB:** Connected my schematic to the PCB.synchronizing changes.
 - **Used 4 layers:** Set up my board with 4 layers for better connections.
