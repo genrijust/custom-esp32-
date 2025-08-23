@@ -1,6 +1,6 @@
 # My Custom ESP32 Board – (Altium Designer)
 
-I made a custom ESP32 board using Altium Designer. 
+I made my first custom ESP32 board using Altium Designer as a beginer. 
 
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/Screenshot%20(396).png?raw=true)
 
