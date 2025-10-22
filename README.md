@@ -32,6 +32,7 @@ I learned most things from this videos:
 ## Screenshots
 Below are some screenshots from my project:
 
+![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/shimatic.jpg?raw=true)
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(395).png?raw=true)
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(398).png?raw=true)
 ![ESP32 PCB](https://github.com/genrijust/custom-esp32-/blob/main/images/Screenshot%20(403).png?raw=true)
