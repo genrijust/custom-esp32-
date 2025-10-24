@@ -18,7 +18,7 @@ Designing a custom ESP32 board in Altium Designer gave me hands-on experience wi
 - **Made footprints:** Used the Footprint Wizard to make shapes for simple components.pad shapes .3D shapes.
 - **Linked schematic and PCB:** Connected my schematic to the PCB.synchronizing changes.
 - **Used 4 layers:** Set up my board with 4 layers for better connections.
-- **Changed rules:** Customized design rule priorities to control clearances, trace widths, and other PCB parameters suited to my design.
+- **Changed rules:** Customized design rule priorities to control clearances, trace widths and other PCB parameters suited to my design.
 - **Did routing:** Drew tracks to connect everything.
 - **Used differential pairs:** Made special rules for high-speed signal wires.
 - **Drew polygons:** Added big copper areas for ground and power.
